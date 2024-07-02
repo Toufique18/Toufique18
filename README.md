@@ -11,7 +11,7 @@
 <h1>Current Stats</h1>
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Toufique18&show_icons=true&theme=dracula&hide=stars,issues" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Toufique18&theme=vue-dark&hide_border=true" />
 </p>
 
 <h1>Familiar Technologies </h1>
