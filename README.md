@@ -6,7 +6,13 @@
 
 <p>Hello! I'm Toufique Eamam, a professional web developer with both front-end and back-end technologies. With over a year of experience, I specialize in building responsive and dynamic web applications using HTML, CSS, JavaScript, React, Tailwind CSS, MongoDB, and Express.js. My goal is to create user-friendly interfaces that not only look great but also provide a seamless user experience.</p>
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Toufique18/Toufique18/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <br />
 <h1>Current Stats</h1>
