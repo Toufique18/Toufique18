@@ -20,6 +20,12 @@
     src="https://raw.githubusercontent.com/Toufique18/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+<!-- Test Light Mode SVG -->
+<img src="https://raw.githubusercontent.com/Toufique18/snk/output/github-contribution-grid-snake.svg" alt="light mode snake animation" />
+
+<!-- Test Dark Mode SVG -->
+<img src="https://raw.githubusercontent.com/Toufique18/snk/output/github-contribution-grid-snake-dark.svg" alt="dark mode snake animation" />
+
 
 <br />
 <h1>Current Stats</h1>
