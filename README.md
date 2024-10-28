@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Toufique18.Toufique18" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Toufique18.visitor-badge&left_text=MyPageVisitors" />
 <img src="https://github.com/Toufique18/Toufique18/blob/main/images/github-header-image.png" alt="">
 
 
