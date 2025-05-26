@@ -4,7 +4,7 @@
 
 <h1>About me</h1>
 
-<p> I'm Toufique Eamam, a professional web developer with both front-end and back-end technologies. With over a year of experience, I specialize in building responsive and dynamic web applications using HTML, CSS, JavaScript, React, Tailwind CSS, MongoDB, and Express.js. My goal is to create user-friendly interfaces that not only look great but also provide a seamless user experience.</p>
+<p>Hello! I'm Toufique Eamam, a professional web developer with both front-end and back-end technologies. With over a year of experience, I specialize in building responsive and dynamic web applications using HTML, CSS, JavaScript, React, Tailwind CSS, MongoDB, and Express.js. My goal is to create user-friendly interfaces that not only look great but also provide a seamless user experience.</p>
 
 <picture>
   <source
